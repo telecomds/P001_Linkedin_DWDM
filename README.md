@@ -2,11 +2,11 @@
 Analysis of terms in Linkedin Job Descriptions related to DWDM
 
 ## Description
-Scrapped LinkedIn webiste (public without login in) for job search worldwide that include the term DWDM.  Extract job descriptions and look for other common terms included in this job offers.
+Scrapped LinkedIn webiste (public without login in) for job search worldwide that include the term DWDM.  Extract job descriptions and look for other common terms included in these job offers.
 
 #### Steps
 * Web scrapped LinkedIn using Selenium library and saved results in .csv file
-* Clean (special characters, stopwords, etc) and tokenized job descriptions
+* Clean and tokenized job descriptions
 * Compared list of tokens with a list of technical terms extracted from Techopedia.com
 * Obtained most common terms and visualized using WordCloud
 
