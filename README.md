@@ -15,12 +15,12 @@ Scrapped LinkedIn webiste (public without login in) for job search worldwide tha
 * NLTK
 * WordCloud
 * Pandas
-* Matplot
+* Matplotlib
 * Collections
 
 ### Sources
 * https://maoviola.medium.com/a-complete-guide-to-web-scraping-linkedin-job-postings-ad290fcaa97f
-* Garrett, John. Data Analytics for IT Networks (Networking Technology). Pearson Education. Edición de Kindle.
+* Garrett, John. Data Analytics for IT Networks (Networking Technology). Pearson Education.
 * https://www.techopedia.com/dictionary 
 * https://stackoverflow.com
 
