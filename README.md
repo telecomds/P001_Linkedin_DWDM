@@ -25,7 +25,7 @@ Scrapped LinkedIn webiste (public without login in) for job search worldwide tha
 * https://stackoverflow.com
 
 ### Result
-![alt text](https://github.com/telecomds/P001_Linkedin_DWDM/blob/main/word_cloud_img.png?raw=true)
+![alt text](https://github.com/telecomds/P001_Linkedin_DWDM/blob/main/word_cloud_img_cut.png?raw=true)
 
 ### Future work
 * Use Linkedin login to scrap
